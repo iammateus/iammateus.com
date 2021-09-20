@@ -234,10 +234,6 @@ section#about {
     /* font-weight: bold; */
 }
 
-.work-experience-content p {
-    padding: 10px 0px 0 20px;
-}
-
 ul.skills-list {
     list-style: none;
     width: 80%;
@@ -384,6 +380,7 @@ footer {
 #about p {
     text-align: justify;
     font-size: .9em;
+    margin: 0 auto 10px;
 }
 
 p.job-description {
@@ -392,6 +389,11 @@ p.job-description {
 
 #about .work-experience-title {
     padding: 35px  0 35px 0;
+}
+
+#about .work-experience-content p {
+    padding: 10px 0px 0 20px;
+    margin: 0 auto;
 }
 
 p.position-title {
