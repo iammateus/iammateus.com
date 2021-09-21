@@ -239,6 +239,11 @@ ul.skills-list {
     width: 80%;
 }
 
+#about .work-experience-content p {
+    padding: 10px 0px 0 20px;
+    margin: 0 auto;
+}
+
 .skill {
     display: -webkit-box;
     display: -ms-flexbox;
@@ -346,9 +351,9 @@ footer {
     .half {
         padding: 92px 2%;
     }
-    .work-experience-content p {
+    #about .work-experience-content p {
         padding: 10px 0;
-    }   
+    }  
 }
 
 @media screen and (max-width: 375px) {
@@ -389,11 +394,6 @@ p.job-description {
 
 #about .work-experience-title {
     padding: 35px  0 35px 0;
-}
-
-#about .work-experience-content p {
-    padding: 10px 0px 0 20px;
-    margin: 0 auto;
 }
 
 p.position-title {
