@@ -1,7 +1,7 @@
-# immateus.com
+# iammateus.com.br
 
-My [website](https://iammateus.com)
+My [website](https://iammateus.com.br)
 
 ## License
 
-[MIT](https://github.com/iammateus/iammateus.com/blob/main/LICENSE)
+[MIT](https://github.com/iammateus/iammateus.com.br/blob/main/LICENSE)
